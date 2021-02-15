@@ -12,5 +12,4 @@ public class MyCompareTo implements Comparator<Product> {
 	}
 
 	
-
 }
